@@ -84,6 +84,7 @@
 extern void	task(intptr_t exinf);
 extern void	main_task(intptr_t exinf);
 extern void	sonar_task(intptr_t exinf);
+extern void	Counter_1000cyc(intptr_t idx);
 //extern void balance_task(intptr_t exinf);
 //extern void idle_task(intptr_t exinf);
 //extern void	tex_routine(TEXPTN texptn, intptr_t exinf);
